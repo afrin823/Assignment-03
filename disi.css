@@ -1,0 +1,25 @@
+.card-bg1-01 {
+    background-image: url(Images/2.png);
+    background-repeat: no-repeat;
+    text-align: justify;
+    opacity: 0.7;
+}
+.card-bg-02{
+   background-image: url(Images/3.png);
+   background-repeat: no-repeat;
+   text-align: justify;
+   opacity: 0.7;
+}
+.card-bg-03{
+   background-image: url(Images/4.png);
+   background-repeat: no-repeat;
+   background-size: contain;
+   text-align: justify;
+   opacity: 0.7;
+}
+img.w-full.aspect-video.\.\.\. {
+   height: 400px;
+}
+.col-span-2.px-12 {
+    overflow: hidden;
+}
